@@ -1,6 +1,5 @@
 import "./App.css";
 import React from "react";
-import Card from "./components/Card";
 import { Switch, Route, Redirect } from "react-router-dom";
 import Home from "./components/Home";
 
